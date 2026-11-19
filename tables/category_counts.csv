@@ -1,0 +1,27 @@
+variable,value,count
+site,S01,9
+site,S02,6
+site,S03,10
+site,S04,12
+site,S05,11
+site,S06,5
+site,S07,26
+site,S08,12
+site,S09,5
+site,S10,9
+site,S11,7
+site,S12,12
+month,2020-10,6
+month,2020-11,7
+month,2020-12,15
+month,2021-01,25
+month,2021-02,20
+month,2021-03,20
+month,2021-04,18
+month,2021-05,13
+unit,pieces/m3,124
+sampling_method,Manta net,124
+short_reference,de Haan et al.2022,124
+long_reference,"de Haan, W.P., O. Uviedo, M. Ballesteros, I. Canales, X. Curto, M. Guart, S. Higueras, A. Molina, A. Sanchez-Vidal, and The Surfing for Science Group. 2022. Floating microplastic loads in the nearshore revealed through citizen science. Environmental Research Letters,17, 045018. https://doi.org/10.1088/1748-9326/ac5df1",124
+doi,https://doi.org/10.1088/1748-9326/ac5df1,124
+organization,University of Barcelona,124
