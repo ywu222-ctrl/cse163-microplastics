@@ -14,7 +14,6 @@ measurements and figures use these records.
 
 - [NOAA metadata and sampling information](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc%3A0253923)
 - [Download the Excel file from the GitHub mirror](https://github.com/ywu222-ctrl/cse163-microplastics/raw/refs/heads/main/NOAA_0253923_original.xlsx)
-- [Original NOAA Excel file (backup download)](https://www.ncei.noaa.gov/data/oceans/archive/arc0203/0253923/1.1/data/0-data/MP_data_Sanchez_Vidal_S2N.xlsx)
 
 The GitHub mirror contains the same original Excel file; it is not another
 dataset. Use the NOAA metadata page for the study and sampling details.
