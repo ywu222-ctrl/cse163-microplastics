@@ -90,4 +90,3 @@ sources, ecological safety thresholds, or harm to animals or people.
 - Celine Wu's submitted project proposal.
 - NOAA metadata, data dictionary, and original workbook.
 - CSE 163 course materials and SciPy documentation.
-- OpenAI Codex assisted with code, tests, interpretation checks, and drafting.
