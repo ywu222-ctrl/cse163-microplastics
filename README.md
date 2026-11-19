@@ -15,11 +15,9 @@ measurements and figures use these records.
 - [NOAA metadata and sampling information](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc%3A0253923)
 - [Download the Excel file from the GitHub mirror](https://github.com/ywu222-ctrl/cse163-microplastics/raw/refs/heads/main/NOAA_0253923_original.xlsx)
 
-The GitHub mirror contains the same original Excel file; it is not another
-dataset. Use the NOAA metadata page for the study and sampling details.
+The GitHub mirror contains the original Excel file. Use the NOAA metadata page for the study and sampling details.
 
-1. A copy is included at `data/NOAA_0253923_original.xlsx`. If that file is
-   missing, download it using the GitHub link above and save it at that path.
+1. Download the Excel file using the GitHub link above.
 2. Read the workbook's `Data_Dictionary` sheet for variable definitions.
 3. `eda.py` reads the `MP_data_S2N` worksheet. It never modifies the Excel file.
 
@@ -84,7 +82,7 @@ test is not repeated on that incomplete table.
 No claim is made about year-round seasonality, long-term trends, pollution
 sources, ecological safety thresholds, or harm to animals or people.
 
-## Resources and assistance
+## Resources
 
 - Celine Wu's submitted project proposal.
 - NOAA metadata, data dictionary, and original workbook.
